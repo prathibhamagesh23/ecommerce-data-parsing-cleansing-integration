@@ -1,0 +1,585 @@
+datasetNo,indexOfdf,Id,ColumnName,Original,Modified,ErrorType,Fixing
+dataset1,2219,872.0,Category,Knist,Knits,Typographical Error,"Corrected ""Knist"" to ""Knits"""
+dataset1,2509,1002.0,Category,Skirst,Skirts,Typographical Error,"Corrected ""Skirst"" to ""Skirts"""
+dataset1,2974,836.0,Category,Blouess,Blouses,Typographical Error,"Corrected ""Blouess"" to ""Blouses"""
+dataset1,5120,819.0,Category,Boluses,Blouses,Typographical Error,"Corrected ""Boluses"" to ""Blouses"""
+dataset1,5557,1033.0,Category,eJans,Jeans,Typographical Error,"Corrected ""eJans"" to ""Jeans"""
+dataset1,5577,907.0,Category,Fine aguge,Fine gauge,Typographical Error,"Corrected ""Fine aguge"" to ""Fine gauge"""
+dataset1,14,513.0,Section,Initmates,Intimates,Typographical Error,"Corrected ""Initmates"" to ""Intimates"""
+dataset1,29,169.0,Section,Initmates,Intimates,Typographical Error,"Corrected ""Initmates"" to ""Intimates"""
+dataset1,32,257.0,Section,Initmates,Intimates,Typographical Error,"Corrected ""Initmates"" to ""Intimates"""
+dataset1,123,520.0,Section,Initmates,Intimates,Typographical Error,"Corrected ""Initmates"" to ""Intimates"""
+dataset1,145,331.0,Section,Initmates,Intimates,Typographical Error,"Corrected ""Initmates"" to ""Intimates"""
+dataset1,150,385.0,Section,Initmates,Intimates,Typographical Error,"Corrected ""Initmates"" to ""Intimates"""
+dataset1,183,35.0,Section,Initmates,Intimates,Typographical Error,"Corrected ""Initmates"" to ""Intimates"""
+dataset1,196,292.0,Section,Initmates,Intimates,Typographical Error,"Corrected ""Initmates"" to ""Intimates"""
+dataset1,204,758.0,Section,Initmates,Intimates,Typographical Error,"Corrected ""Initmates"" to ""Intimates"""
+dataset1,222,300.0,Section,Initmates,Intimates,Typographical Error,"Corrected ""Initmates"" to ""Intimates"""
+dataset1,231,246.0,Section,Initmates,Intimates,Typographical Error,"Corrected ""Initmates"" to ""Intimates"""
+dataset1,233,800.0,Section,Initmates,Intimates,Typographical Error,"Corrected ""Initmates"" to ""Intimates"""
+dataset1,237,187.0,Section,Initmates,Intimates,Typographical Error,"Corrected ""Initmates"" to ""Intimates"""
+dataset1,254,277.0,Section,Initmates,Intimates,Typographical Error,"Corrected ""Initmates"" to ""Intimates"""
+dataset1,256,664.0,Section,Initmates,Intimates,Typographical Error,"Corrected ""Initmates"" to ""Intimates"""
+dataset1,276,463.0,Section,Initmates,Intimates,Typographical Error,"Corrected ""Initmates"" to ""Intimates"""
+dataset1,294,242.0,Section,Initmates,Intimates,Typographical Error,"Corrected ""Initmates"" to ""Intimates"""
+dataset1,334,164.0,Section,Initmates,Intimates,Typographical Error,"Corrected ""Initmates"" to ""Intimates"""
+dataset1,345,745.0,Section,Initmates,Intimates,Typographical Error,"Corrected ""Initmates"" to ""Intimates"""
+dataset1,347,123.0,Section,Initmates,Intimates,Typographical Error,"Corrected ""Initmates"" to ""Intimates"""
+dataset1,355,290.0,Section,Initmates,Intimates,Typographical Error,"Corrected ""Initmates"" to ""Intimates"""
+dataset1,366,169.0,Section,Initmates,Intimates,Typographical Error,"Corrected ""Initmates"" to ""Intimates"""
+dataset1,386,251.0,Section,Initmates,Intimates,Typographical Error,"Corrected ""Initmates"" to ""Intimates"""
+dataset1,393,699.0,Section,Initmates,Intimates,Typographical Error,"Corrected ""Initmates"" to ""Intimates"""
+dataset1,401,168.0,Section,Initmates,Intimates,Typographical Error,"Corrected ""Initmates"" to ""Intimates"""
+dataset1,420,40.0,Section,Initmates,Intimates,Typographical Error,"Corrected ""Initmates"" to ""Intimates"""
+dataset1,438,229.0,Section,Initmates,Intimates,Typographical Error,"Corrected ""Initmates"" to ""Intimates"""
+dataset1,474,504.0,Section,Initmates,Intimates,Typographical Error,"Corrected ""Initmates"" to ""Intimates"""
+dataset1,479,158.0,Section,Initmates,Intimates,Typographical Error,"Corrected ""Initmates"" to ""Intimates"""
+dataset1,480,123.0,Section,Initmates,Intimates,Typographical Error,"Corrected ""Initmates"" to ""Intimates"""
+dataset1,504,808.0,Section,Initmates,Intimates,Typographical Error,"Corrected ""Initmates"" to ""Intimates"""
+dataset1,505,436.0,Section,Initmates,Intimates,Typographical Error,"Corrected ""Initmates"" to ""Intimates"""
+dataset1,509,169.0,Section,Initmates,Intimates,Typographical Error,"Corrected ""Initmates"" to ""Intimates"""
+dataset1,511,292.0,Section,Initmates,Intimates,Typographical Error,"Corrected ""Initmates"" to ""Intimates"""
+dataset1,515,617.0,Section,Initmates,Intimates,Typographical Error,"Corrected ""Initmates"" to ""Intimates"""
+dataset1,536,504.0,Section,Initmates,Intimates,Typographical Error,"Corrected ""Initmates"" to ""Intimates"""
+dataset1,537,286.0,Section,Initmates,Intimates,Typographical Error,"Corrected ""Initmates"" to ""Intimates"""
+dataset1,542,220.0,Section,Initmates,Intimates,Typographical Error,"Corrected ""Initmates"" to ""Intimates"""
+dataset1,547,166.0,Section,Initmates,Intimates,Typographical Error,"Corrected ""Initmates"" to ""Intimates"""
+dataset1,548,728.0,Section,Initmates,Intimates,Typographical Error,"Corrected ""Initmates"" to ""Intimates"""
+dataset1,549,276.0,Section,Initmates,Intimates,Typographical Error,"Corrected ""Initmates"" to ""Intimates"""
+dataset1,550,798.0,Section,Initmates,Intimates,Typographical Error,"Corrected ""Initmates"" to ""Intimates"""
+dataset1,572,157.0,Section,Initmates,Intimates,Typographical Error,"Corrected ""Initmates"" to ""Intimates"""
+dataset1,615,1.0,Section,Initmates,Intimates,Typographical Error,"Corrected ""Initmates"" to ""Intimates"""
+dataset1,625,677.0,Section,Initmates,Intimates,Typographical Error,"Corrected ""Initmates"" to ""Intimates"""
+dataset1,629,1159.0,Section,Initmates,Intimates,Typographical Error,"Corrected ""Initmates"" to ""Intimates"""
+dataset1,636,302.0,Section,Initmates,Intimates,Typographical Error,"Corrected ""Initmates"" to ""Intimates"""
+dataset1,649,512.0,Section,Initmates,Intimates,Typographical Error,"Corrected ""Initmates"" to ""Intimates"""
+dataset1,658,270.0,Section,Initmates,Intimates,Typographical Error,"Corrected ""Initmates"" to ""Intimates"""
+dataset1,665,663.0,Section,Initmates,Intimates,Typographical Error,"Corrected ""Initmates"" to ""Intimates"""
+dataset1,687,176.0,Section,Initmates,Intimates,Typographical Error,"Corrected ""Initmates"" to ""Intimates"""
+dataset1,733,1167.0,Section,Initmates,Intimates,Typographical Error,"Corrected ""Initmates"" to ""Intimates"""
+dataset1,740,24.0,Section,Initmates,Intimates,Typographical Error,"Corrected ""Initmates"" to ""Intimates"""
+dataset1,758,804.0,Section,Initmates,Intimates,Typographical Error,"Corrected ""Initmates"" to ""Intimates"""
+dataset1,800,657.0,Section,Initmates,Intimates,Typographical Error,"Corrected ""Initmates"" to ""Intimates"""
+dataset1,802,1170.0,Section,Initmates,Intimates,Typographical Error,"Corrected ""Initmates"" to ""Intimates"""
+dataset1,811,645.0,Section,Initmates,Intimates,Typographical Error,"Corrected ""Initmates"" to ""Intimates"""
+dataset1,814,375.0,Section,Initmates,Intimates,Typographical Error,"Corrected ""Initmates"" to ""Intimates"""
+dataset1,853,247.0,Section,Initmates,Intimates,Typographical Error,"Corrected ""Initmates"" to ""Intimates"""
+dataset1,865,237.0,Section,Initmates,Intimates,Typographical Error,"Corrected ""Initmates"" to ""Intimates"""
+dataset1,880,252.0,Section,Initmates,Intimates,Typographical Error,"Corrected ""Initmates"" to ""Intimates"""
+dataset1,906,746.0,Section,Initmates,Intimates,Typographical Error,"Corrected ""Initmates"" to ""Intimates"""
+dataset1,910,719.0,Section,Initmates,Intimates,Typographical Error,"Corrected ""Initmates"" to ""Intimates"""
+dataset1,911,117.0,Section,Initmates,Intimates,Typographical Error,"Corrected ""Initmates"" to ""Intimates"""
+dataset1,917,805.0,Section,Initmates,Intimates,Typographical Error,"Corrected ""Initmates"" to ""Intimates"""
+dataset1,954,318.0,Section,Initmates,Intimates,Typographical Error,"Corrected ""Initmates"" to ""Intimates"""
+dataset1,972,124.0,Section,Initmates,Intimates,Typographical Error,"Corrected ""Initmates"" to ""Intimates"""
+dataset1,984,300.0,Section,Initmates,Intimates,Typographical Error,"Corrected ""Initmates"" to ""Intimates"""
+dataset1,989,205.0,Section,Initmates,Intimates,Typographical Error,"Corrected ""Initmates"" to ""Intimates"""
+dataset1,997,601.0,Section,Initmates,Intimates,Typographical Error,"Corrected ""Initmates"" to ""Intimates"""
+dataset1,1001,719.0,Section,Initmates,Intimates,Typographical Error,"Corrected ""Initmates"" to ""Intimates"""
+dataset1,1020,251.0,Section,Initmates,Intimates,Typographical Error,"Corrected ""Initmates"" to ""Intimates"""
+dataset1,1029,520.0,Section,Initmates,Intimates,Typographical Error,"Corrected ""Initmates"" to ""Intimates"""
+dataset1,1054,278.0,Section,Initmates,Intimates,Typographical Error,"Corrected ""Initmates"" to ""Intimates"""
+dataset1,1060,331.0,Section,Initmates,Intimates,Typographical Error,"Corrected ""Initmates"" to ""Intimates"""
+dataset1,1098,290.0,Section,Initmates,Intimates,Typographical Error,"Corrected ""Initmates"" to ""Intimates"""
+dataset1,1104,382.0,Section,Initmates,Intimates,Typographical Error,"Corrected ""Initmates"" to ""Intimates"""
+dataset1,1127,1166.0,Section,Initmates,Intimates,Typographical Error,"Corrected ""Initmates"" to ""Intimates"""
+dataset1,1130,254.0,Section,Initmates,Intimates,Typographical Error,"Corrected ""Initmates"" to ""Intimates"""
+dataset1,1139,376.0,Section,Initmates,Intimates,Typographical Error,"Corrected ""Initmates"" to ""Intimates"""
+dataset1,1140,595.0,Section,Initmates,Intimates,Typographical Error,"Corrected ""Initmates"" to ""Intimates"""
+dataset1,1152,452.0,Section,Initmates,Intimates,Typographical Error,"Corrected ""Initmates"" to ""Intimates"""
+dataset1,1165,1203.0,Section,Initmates,Intimates,Typographical Error,"Corrected ""Initmates"" to ""Intimates"""
+dataset1,1183,391.0,Section,Initmates,Intimates,Typographical Error,"Corrected ""Initmates"" to ""Intimates"""
+dataset1,1188,349.0,Section,Initmates,Intimates,Typographical Error,"Corrected ""Initmates"" to ""Intimates"""
+dataset1,1190,275.0,Section,Initmates,Intimates,Typographical Error,"Corrected ""Initmates"" to ""Intimates"""
+dataset1,1196,381.0,Section,Initmates,Intimates,Typographical Error,"Corrected ""Initmates"" to ""Intimates"""
+dataset1,1237,257.0,Section,Initmates,Intimates,Typographical Error,"Corrected ""Initmates"" to ""Intimates"""
+dataset1,1275,741.0,Section,Initmates,Intimates,Typographical Error,"Corrected ""Initmates"" to ""Intimates"""
+dataset1,1290,240.0,Section,Initmates,Intimates,Typographical Error,"Corrected ""Initmates"" to ""Intimates"""
+dataset1,1291,504.0,Section,Initmates,Intimates,Typographical Error,"Corrected ""Initmates"" to ""Intimates"""
+dataset1,1364,532.0,Section,Initmates,Intimates,Typographical Error,"Corrected ""Initmates"" to ""Intimates"""
+dataset1,1393,444.0,Section,Initmates,Intimates,Typographical Error,"Corrected ""Initmates"" to ""Intimates"""
+dataset1,1425,116.0,Section,Initmates,Intimates,Typographical Error,"Corrected ""Initmates"" to ""Intimates"""
+dataset1,1434,637.0,Section,Initmates,Intimates,Typographical Error,"Corrected ""Initmates"" to ""Intimates"""
+dataset1,1474,375.0,Section,Initmates,Intimates,Typographical Error,"Corrected ""Initmates"" to ""Intimates"""
+dataset1,1475,252.0,Section,Initmates,Intimates,Typographical Error,"Corrected ""Initmates"" to ""Intimates"""
+dataset1,1484,303.0,Section,Initmates,Intimates,Typographical Error,"Corrected ""Initmates"" to ""Intimates"""
+dataset1,1485,538.0,Section,Initmates,Intimates,Typographical Error,"Corrected ""Initmates"" to ""Intimates"""
+dataset1,1486,46.0,Section,Initmates,Intimates,Typographical Error,"Corrected ""Initmates"" to ""Intimates"""
+dataset1,1513,648.0,Section,Initmates,Intimates,Typographical Error,"Corrected ""Initmates"" to ""Intimates"""
+dataset1,1517,380.0,Section,Initmates,Intimates,Typographical Error,"Corrected ""Initmates"" to ""Intimates"""
+dataset1,1543,390.0,Section,Initmates,Intimates,Typographical Error,"Corrected ""Initmates"" to ""Intimates"""
+dataset1,1557,248.0,Section,Initmates,Intimates,Typographical Error,"Corrected ""Initmates"" to ""Intimates"""
+dataset1,1565,320.0,Section,Initmates,Intimates,Typographical Error,"Corrected ""Initmates"" to ""Intimates"""
+dataset1,1623,1168.0,Section,Initmates,Intimates,Typographical Error,"Corrected ""Initmates"" to ""Intimates"""
+dataset1,1625,523.0,Section,Initmates,Intimates,Typographical Error,"Corrected ""Initmates"" to ""Intimates"""
+dataset1,1634,662.0,Section,Initmates,Intimates,Typographical Error,"Corrected ""Initmates"" to ""Intimates"""
+dataset1,1637,192.0,Section,Initmates,Intimates,Typographical Error,"Corrected ""Initmates"" to ""Intimates"""
+dataset1,1718,137.0,Section,Initmates,Intimates,Typographical Error,"Corrected ""Initmates"" to ""Intimates"""
+dataset1,1735,157.0,Section,Initmates,Intimates,Typographical Error,"Corrected ""Initmates"" to ""Intimates"""
+dataset1,1740,243.0,Section,Initmates,Intimates,Typographical Error,"Corrected ""Initmates"" to ""Intimates"""
+dataset1,1762,88.0,Section,Initmates,Intimates,Typographical Error,"Corrected ""Initmates"" to ""Intimates"""
+dataset1,1774,777.0,Section,Initmates,Intimates,Typographical Error,"Corrected ""Initmates"" to ""Intimates"""
+dataset1,1786,793.0,Section,Initmates,Intimates,Typographical Error,"Corrected ""Initmates"" to ""Intimates"""
+dataset1,1860,339.0,Section,Initmates,Intimates,Typographical Error,"Corrected ""Initmates"" to ""Intimates"""
+dataset1,1886,300.0,Section,Initmates,Intimates,Typographical Error,"Corrected ""Initmates"" to ""Intimates"""
+dataset1,1887,227.0,Section,Initmates,Intimates,Typographical Error,"Corrected ""Initmates"" to ""Intimates"""
+dataset1,1903,34.0,Section,Initmates,Intimates,Typographical Error,"Corrected ""Initmates"" to ""Intimates"""
+dataset1,1910,182.0,Section,Initmates,Intimates,Typographical Error,"Corrected ""Initmates"" to ""Intimates"""
+dataset1,1927,154.0,Section,Initmates,Intimates,Typographical Error,"Corrected ""Initmates"" to ""Intimates"""
+dataset1,1933,1157.0,Section,Initmates,Intimates,Typographical Error,"Corrected ""Initmates"" to ""Intimates"""
+dataset1,1962,392.0,Section,Initmates,Intimates,Typographical Error,"Corrected ""Initmates"" to ""Intimates"""
+dataset1,1967,172.0,Section,Initmates,Intimates,Typographical Error,"Corrected ""Initmates"" to ""Intimates"""
+dataset1,1989,139.0,Section,Initmates,Intimates,Typographical Error,"Corrected ""Initmates"" to ""Intimates"""
+dataset1,1995,375.0,Section,Initmates,Intimates,Typographical Error,"Corrected ""Initmates"" to ""Intimates"""
+dataset1,2016,440.0,Section,Initmates,Intimates,Typographical Error,"Corrected ""Initmates"" to ""Intimates"""
+dataset1,2050,662.0,Section,Initmates,Intimates,Typographical Error,"Corrected ""Initmates"" to ""Intimates"""
+dataset1,2055,129.0,Section,Initmates,Intimates,Typographical Error,"Corrected ""Initmates"" to ""Intimates"""
+dataset1,2058,662.0,Section,Initmates,Intimates,Typographical Error,"Corrected ""Initmates"" to ""Intimates"""
+dataset1,2062,782.0,Section,Initmates,Intimates,Typographical Error,"Corrected ""Initmates"" to ""Intimates"""
+dataset1,2076,24.0,Section,Initmates,Intimates,Typographical Error,"Corrected ""Initmates"" to ""Intimates"""
+dataset1,2093,155.0,Section,Initmates,Intimates,Typographical Error,"Corrected ""Initmates"" to ""Intimates"""
+dataset1,2103,656.0,Section,Initmates,Intimates,Typographical Error,"Corrected ""Initmates"" to ""Intimates"""
+dataset1,2112,663.0,Section,Initmates,Intimates,Typographical Error,"Corrected ""Initmates"" to ""Intimates"""
+dataset1,2157,678.0,Section,Initmates,Intimates,Typographical Error,"Corrected ""Initmates"" to ""Intimates"""
+dataset1,2159,267.0,Section,Initmates,Intimates,Typographical Error,"Corrected ""Initmates"" to ""Intimates"""
+dataset1,2197,40.0,Section,Initmates,Intimates,Typographical Error,"Corrected ""Initmates"" to ""Intimates"""
+dataset1,2216,752.0,Section,Initmates,Intimates,Typographical Error,"Corrected ""Initmates"" to ""Intimates"""
+dataset1,2226,236.0,Section,Initmates,Intimates,Typographical Error,"Corrected ""Initmates"" to ""Intimates"""
+dataset1,2251,722.0,Section,Initmates,Intimates,Typographical Error,"Corrected ""Initmates"" to ""Intimates"""
+dataset1,2253,777.0,Section,Initmates,Intimates,Typographical Error,"Corrected ""Initmates"" to ""Intimates"""
+dataset1,2267,407.0,Section,Initmates,Intimates,Typographical Error,"Corrected ""Initmates"" to ""Intimates"""
+dataset1,2283,334.0,Section,Initmates,Intimates,Typographical Error,"Corrected ""Initmates"" to ""Intimates"""
+dataset1,2291,281.0,Section,Initmates,Intimates,Typographical Error,"Corrected ""Initmates"" to ""Intimates"""
+dataset1,2294,129.0,Section,Initmates,Intimates,Typographical Error,"Corrected ""Initmates"" to ""Intimates"""
+dataset1,2313,142.0,Section,Initmates,Intimates,Typographical Error,"Corrected ""Initmates"" to ""Intimates"""
+dataset1,2327,196.0,Section,Initmates,Intimates,Typographical Error,"Corrected ""Initmates"" to ""Intimates"""
+dataset1,2340,514.0,Section,Initmates,Intimates,Typographical Error,"Corrected ""Initmates"" to ""Intimates"""
+dataset1,2349,739.0,Section,Initmates,Intimates,Typographical Error,"Corrected ""Initmates"" to ""Intimates"""
+dataset1,2356,24.0,Section,Initmates,Intimates,Typographical Error,"Corrected ""Initmates"" to ""Intimates"""
+dataset1,2366,663.0,Section,Initmates,Intimates,Typographical Error,"Corrected ""Initmates"" to ""Intimates"""
+dataset1,2368,186.0,Section,Initmates,Intimates,Typographical Error,"Corrected ""Initmates"" to ""Intimates"""
+dataset1,2372,663.0,Section,Initmates,Intimates,Typographical Error,"Corrected ""Initmates"" to ""Intimates"""
+dataset1,2419,176.0,Section,Initmates,Intimates,Typographical Error,"Corrected ""Initmates"" to ""Intimates"""
+dataset1,2440,49.0,Section,Initmates,Intimates,Typographical Error,"Corrected ""Initmates"" to ""Intimates"""
+dataset1,2447,213.0,Section,Initmates,Intimates,Typographical Error,"Corrected ""Initmates"" to ""Intimates"""
+dataset1,2475,482.0,Section,Initmates,Intimates,Typographical Error,"Corrected ""Initmates"" to ""Intimates"""
+dataset1,2487,761.0,Section,Initmates,Intimates,Typographical Error,"Corrected ""Initmates"" to ""Intimates"""
+dataset1,2491,382.0,Section,Initmates,Intimates,Typographical Error,"Corrected ""Initmates"" to ""Intimates"""
+dataset1,2521,81.0,Section,Initmates,Intimates,Typographical Error,"Corrected ""Initmates"" to ""Intimates"""
+dataset1,2523,189.0,Section,Initmates,Intimates,Typographical Error,"Corrected ""Initmates"" to ""Intimates"""
+dataset1,2530,416.0,Section,Initmates,Intimates,Typographical Error,"Corrected ""Initmates"" to ""Intimates"""
+dataset1,2609,179.0,Section,Initmates,Intimates,Typographical Error,"Corrected ""Initmates"" to ""Intimates"""
+dataset1,2612,520.0,Section,Initmates,Intimates,Typographical Error,"Corrected ""Initmates"" to ""Intimates"""
+dataset1,2645,487.0,Section,Initmates,Intimates,Typographical Error,"Corrected ""Initmates"" to ""Intimates"""
+dataset1,2648,116.0,Section,Initmates,Intimates,Typographical Error,"Corrected ""Initmates"" to ""Intimates"""
+dataset1,2659,797.0,Section,Initmates,Intimates,Typographical Error,"Corrected ""Initmates"" to ""Intimates"""
+dataset1,2660,37.0,Section,Initmates,Intimates,Typographical Error,"Corrected ""Initmates"" to ""Intimates"""
+dataset1,2661,760.0,Section,Initmates,Intimates,Typographical Error,"Corrected ""Initmates"" to ""Intimates"""
+dataset1,2663,116.0,Section,Initmates,Intimates,Typographical Error,"Corrected ""Initmates"" to ""Intimates"""
+dataset1,2696,724.0,Section,Initmates,Intimates,Typographical Error,"Corrected ""Initmates"" to ""Intimates"""
+dataset1,2706,464.0,Section,Initmates,Intimates,Typographical Error,"Corrected ""Initmates"" to ""Intimates"""
+dataset1,2709,497.0,Section,Initmates,Intimates,Typographical Error,"Corrected ""Initmates"" to ""Intimates"""
+dataset1,2722,229.0,Section,Initmates,Intimates,Typographical Error,"Corrected ""Initmates"" to ""Intimates"""
+dataset1,2770,378.0,Section,Initmates,Intimates,Typographical Error,"Corrected ""Initmates"" to ""Intimates"""
+dataset1,2782,69.0,Section,Initmates,Intimates,Typographical Error,"Corrected ""Initmates"" to ""Intimates"""
+dataset1,2793,503.0,Section,Initmates,Intimates,Typographical Error,"Corrected ""Initmates"" to ""Intimates"""
+dataset1,2817,269.0,Section,Initmates,Intimates,Typographical Error,"Corrected ""Initmates"" to ""Intimates"""
+dataset1,2829,155.0,Section,Initmates,Intimates,Typographical Error,"Corrected ""Initmates"" to ""Intimates"""
+dataset1,2833,774.0,Section,Initmates,Intimates,Typographical Error,"Corrected ""Initmates"" to ""Intimates"""
+dataset1,2910,381.0,Section,Initmates,Intimates,Typographical Error,"Corrected ""Initmates"" to ""Intimates"""
+dataset1,2933,377.0,Section,Initmates,Intimates,Typographical Error,"Corrected ""Initmates"" to ""Intimates"""
+dataset1,2953,395.0,Section,Initmates,Intimates,Typographical Error,"Corrected ""Initmates"" to ""Intimates"""
+dataset1,2975,514.0,Section,Initmates,Intimates,Typographical Error,"Corrected ""Initmates"" to ""Intimates"""
+dataset1,2979,742.0,Section,Initmates,Intimates,Typographical Error,"Corrected ""Initmates"" to ""Intimates"""
+dataset1,2987,37.0,Section,Initmates,Intimates,Typographical Error,"Corrected ""Initmates"" to ""Intimates"""
+dataset1,2998,422.0,Section,Initmates,Intimates,Typographical Error,"Corrected ""Initmates"" to ""Intimates"""
+dataset1,3018,1154.0,Section,Initmates,Intimates,Typographical Error,"Corrected ""Initmates"" to ""Intimates"""
+dataset1,3110,779.0,Section,Initmates,Intimates,Typographical Error,"Corrected ""Initmates"" to ""Intimates"""
+dataset1,3125,1171.0,Section,Initmates,Intimates,Typographical Error,"Corrected ""Initmates"" to ""Intimates"""
+dataset1,3132,240.0,Section,Initmates,Intimates,Typographical Error,"Corrected ""Initmates"" to ""Intimates"""
+dataset1,3151,616.0,Section,Initmates,Intimates,Typographical Error,"Corrected ""Initmates"" to ""Intimates"""
+dataset1,3198,780.0,Section,Initmates,Intimates,Typographical Error,"Corrected ""Initmates"" to ""Intimates"""
+dataset1,3200,193.0,Section,Initmates,Intimates,Typographical Error,"Corrected ""Initmates"" to ""Intimates"""
+dataset1,3209,686.0,Section,Initmates,Intimates,Typographical Error,"Corrected ""Initmates"" to ""Intimates"""
+dataset1,3224,169.0,Section,Initmates,Intimates,Typographical Error,"Corrected ""Initmates"" to ""Intimates"""
+dataset1,3228,642.0,Section,Initmates,Intimates,Typographical Error,"Corrected ""Initmates"" to ""Intimates"""
+dataset1,3231,248.0,Section,Initmates,Intimates,Typographical Error,"Corrected ""Initmates"" to ""Intimates"""
+dataset1,3232,329.0,Section,Initmates,Intimates,Typographical Error,"Corrected ""Initmates"" to ""Intimates"""
+dataset1,3254,46.0,Section,Initmates,Intimates,Typographical Error,"Corrected ""Initmates"" to ""Intimates"""
+dataset1,3257,242.0,Section,Initmates,Intimates,Typographical Error,"Corrected ""Initmates"" to ""Intimates"""
+dataset1,3268,1159.0,Section,Initmates,Intimates,Typographical Error,"Corrected ""Initmates"" to ""Intimates"""
+dataset1,3269,169.0,Section,Initmates,Intimates,Typographical Error,"Corrected ""Initmates"" to ""Intimates"""
+dataset1,3291,763.0,Section,Initmates,Intimates,Typographical Error,"Corrected ""Initmates"" to ""Intimates"""
+dataset1,3343,482.0,Section,Initmates,Intimates,Typographical Error,"Corrected ""Initmates"" to ""Intimates"""
+dataset1,3349,719.0,Section,Initmates,Intimates,Typographical Error,"Corrected ""Initmates"" to ""Intimates"""
+dataset1,3353,196.0,Section,Initmates,Intimates,Typographical Error,"Corrected ""Initmates"" to ""Intimates"""
+dataset1,3366,99.0,Section,Initmates,Intimates,Typographical Error,"Corrected ""Initmates"" to ""Intimates"""
+dataset1,3377,444.0,Section,Initmates,Intimates,Typographical Error,"Corrected ""Initmates"" to ""Intimates"""
+dataset1,3388,390.0,Section,Initmates,Intimates,Typographical Error,"Corrected ""Initmates"" to ""Intimates"""
+dataset1,3394,522.0,Section,Initmates,Intimates,Typographical Error,"Corrected ""Initmates"" to ""Intimates"""
+dataset1,3400,736.0,Section,Initmates,Intimates,Typographical Error,"Corrected ""Initmates"" to ""Intimates"""
+dataset1,3411,663.0,Section,Initmates,Intimates,Typographical Error,"Corrected ""Initmates"" to ""Intimates"""
+dataset1,3413,470.0,Section,Initmates,Intimates,Typographical Error,"Corrected ""Initmates"" to ""Intimates"""
+dataset1,3444,172.0,Section,Initmates,Intimates,Typographical Error,"Corrected ""Initmates"" to ""Intimates"""
+dataset1,3445,123.0,Section,Initmates,Intimates,Typographical Error,"Corrected ""Initmates"" to ""Intimates"""
+dataset1,3457,138.0,Section,Initmates,Intimates,Typographical Error,"Corrected ""Initmates"" to ""Intimates"""
+dataset1,3490,198.0,Section,Initmates,Intimates,Typographical Error,"Corrected ""Initmates"" to ""Intimates"""
+dataset1,3501,365.0,Section,Initmates,Intimates,Typographical Error,"Corrected ""Initmates"" to ""Intimates"""
+dataset1,3503,222.0,Section,Initmates,Intimates,Typographical Error,"Corrected ""Initmates"" to ""Intimates"""
+dataset1,3530,600.0,Section,Initmates,Intimates,Typographical Error,"Corrected ""Initmates"" to ""Intimates"""
+dataset1,3536,368.0,Section,Initmates,Intimates,Typographical Error,"Corrected ""Initmates"" to ""Intimates"""
+dataset1,3550,381.0,Section,Initmates,Intimates,Typographical Error,"Corrected ""Initmates"" to ""Intimates"""
+dataset1,3559,461.0,Section,Initmates,Intimates,Typographical Error,"Corrected ""Initmates"" to ""Intimates"""
+dataset1,3567,123.0,Section,Initmates,Intimates,Typographical Error,"Corrected ""Initmates"" to ""Intimates"""
+dataset1,3580,89.0,Section,Initmates,Intimates,Typographical Error,"Corrected ""Initmates"" to ""Intimates"""
+dataset1,3613,656.0,Section,Initmates,Intimates,Typographical Error,"Corrected ""Initmates"" to ""Intimates"""
+dataset1,3626,520.0,Section,Initmates,Intimates,Typographical Error,"Corrected ""Initmates"" to ""Intimates"""
+dataset1,3634,157.0,Section,Initmates,Intimates,Typographical Error,"Corrected ""Initmates"" to ""Intimates"""
+dataset1,3646,504.0,Section,Initmates,Intimates,Typographical Error,"Corrected ""Initmates"" to ""Intimates"""
+dataset1,3651,650.0,Section,Initmates,Intimates,Typographical Error,"Corrected ""Initmates"" to ""Intimates"""
+dataset1,3718,753.0,Section,Initmates,Intimates,Typographical Error,"Corrected ""Initmates"" to ""Intimates"""
+dataset1,3741,215.0,Section,Initmates,Intimates,Typographical Error,"Corrected ""Initmates"" to ""Intimates"""
+dataset1,3750,215.0,Section,Initmates,Intimates,Typographical Error,"Corrected ""Initmates"" to ""Intimates"""
+dataset1,3755,288.0,Section,Initmates,Intimates,Typographical Error,"Corrected ""Initmates"" to ""Intimates"""
+dataset1,3768,371.0,Section,Initmates,Intimates,Typographical Error,"Corrected ""Initmates"" to ""Intimates"""
+dataset1,3773,104.0,Section,Initmates,Intimates,Typographical Error,"Corrected ""Initmates"" to ""Intimates"""
+dataset1,3818,1162.0,Section,Initmates,Intimates,Typographical Error,"Corrected ""Initmates"" to ""Intimates"""
+dataset1,3843,280.0,Section,Initmates,Intimates,Typographical Error,"Corrected ""Initmates"" to ""Intimates"""
+dataset1,3862,744.0,Section,Initmates,Intimates,Typographical Error,"Corrected ""Initmates"" to ""Intimates"""
+dataset1,3871,156.0,Section,Initmates,Intimates,Typographical Error,"Corrected ""Initmates"" to ""Intimates"""
+dataset1,3918,377.0,Section,Initmates,Intimates,Typographical Error,"Corrected ""Initmates"" to ""Intimates"""
+dataset1,3919,48.0,Section,Initmates,Intimates,Typographical Error,"Corrected ""Initmates"" to ""Intimates"""
+dataset1,3950,501.0,Section,Initmates,Intimates,Typographical Error,"Corrected ""Initmates"" to ""Intimates"""
+dataset1,3952,381.0,Section,Initmates,Intimates,Typographical Error,"Corrected ""Initmates"" to ""Intimates"""
+dataset1,3960,28.0,Section,Initmates,Intimates,Typographical Error,"Corrected ""Initmates"" to ""Intimates"""
+dataset1,3990,431.0,Section,Initmates,Intimates,Typographical Error,"Corrected ""Initmates"" to ""Intimates"""
+dataset1,3992,525.0,Section,Initmates,Intimates,Typographical Error,"Corrected ""Initmates"" to ""Intimates"""
+dataset1,3993,518.0,Section,Initmates,Intimates,Typographical Error,"Corrected ""Initmates"" to ""Intimates"""
+dataset1,4003,163.0,Section,Initmates,Intimates,Typographical Error,"Corrected ""Initmates"" to ""Intimates"""
+dataset1,4011,254.0,Section,Initmates,Intimates,Typographical Error,"Corrected ""Initmates"" to ""Intimates"""
+dataset1,4015,1.0,Section,Initmates,Intimates,Typographical Error,"Corrected ""Initmates"" to ""Intimates"""
+dataset1,4073,774.0,Section,Initmates,Intimates,Typographical Error,"Corrected ""Initmates"" to ""Intimates"""
+dataset1,4142,535.0,Section,Initmates,Intimates,Typographical Error,"Corrected ""Initmates"" to ""Intimates"""
+dataset1,4151,554.0,Section,Initmates,Intimates,Typographical Error,"Corrected ""Initmates"" to ""Intimates"""
+dataset1,4154,608.0,Section,Initmates,Intimates,Typographical Error,"Corrected ""Initmates"" to ""Intimates"""
+dataset1,4162,785.0,Section,Initmates,Intimates,Typographical Error,"Corrected ""Initmates"" to ""Intimates"""
+dataset1,4167,91.0,Section,Initmates,Intimates,Typographical Error,"Corrected ""Initmates"" to ""Intimates"""
+dataset1,4185,196.0,Section,Initmates,Intimates,Typographical Error,"Corrected ""Initmates"" to ""Intimates"""
+dataset1,4201,226.0,Section,Initmates,Intimates,Typographical Error,"Corrected ""Initmates"" to ""Intimates"""
+dataset1,4210,482.0,Section,Initmates,Intimates,Typographical Error,"Corrected ""Initmates"" to ""Intimates"""
+dataset1,4228,482.0,Section,Initmates,Intimates,Typographical Error,"Corrected ""Initmates"" to ""Intimates"""
+dataset1,4234,509.0,Section,Initmates,Intimates,Typographical Error,"Corrected ""Initmates"" to ""Intimates"""
+dataset1,4252,402.0,Section,Initmates,Intimates,Typographical Error,"Corrected ""Initmates"" to ""Intimates"""
+dataset1,4253,755.0,Section,Initmates,Intimates,Typographical Error,"Corrected ""Initmates"" to ""Intimates"""
+dataset1,4269,381.0,Section,Initmates,Intimates,Typographical Error,"Corrected ""Initmates"" to ""Intimates"""
+dataset1,4272,1178.0,Section,Initmates,Intimates,Typographical Error,"Corrected ""Initmates"" to ""Intimates"""
+dataset1,4294,776.0,Section,Initmates,Intimates,Typographical Error,"Corrected ""Initmates"" to ""Intimates"""
+dataset1,4313,169.0,Section,Initmates,Intimates,Typographical Error,"Corrected ""Initmates"" to ""Intimates"""
+dataset1,4316,215.0,Section,Initmates,Intimates,Typographical Error,"Corrected ""Initmates"" to ""Intimates"""
+dataset1,4320,213.0,Section,Initmates,Intimates,Typographical Error,"Corrected ""Initmates"" to ""Intimates"""
+dataset1,4333,47.0,Section,Initmates,Intimates,Typographical Error,"Corrected ""Initmates"" to ""Intimates"""
+dataset1,4337,345.0,Section,Initmates,Intimates,Typographical Error,"Corrected ""Initmates"" to ""Intimates"""
+dataset1,4343,226.0,Section,Initmates,Intimates,Typographical Error,"Corrected ""Initmates"" to ""Intimates"""
+dataset1,4345,123.0,Section,Initmates,Intimates,Typographical Error,"Corrected ""Initmates"" to ""Intimates"""
+dataset1,4352,24.0,Section,Initmates,Intimates,Typographical Error,"Corrected ""Initmates"" to ""Intimates"""
+dataset1,4373,801.0,Section,Initmates,Intimates,Typographical Error,"Corrected ""Initmates"" to ""Intimates"""
+dataset1,4381,155.0,Section,Initmates,Intimates,Typographical Error,"Corrected ""Initmates"" to ""Intimates"""
+dataset1,4426,147.0,Section,Initmates,Intimates,Typographical Error,"Corrected ""Initmates"" to ""Intimates"""
+dataset1,4433,86.0,Section,Initmates,Intimates,Typographical Error,"Corrected ""Initmates"" to ""Intimates"""
+dataset1,4455,520.0,Section,Initmates,Intimates,Typographical Error,"Corrected ""Initmates"" to ""Intimates"""
+dataset1,4462,725.0,Section,Initmates,Intimates,Typographical Error,"Corrected ""Initmates"" to ""Intimates"""
+dataset1,4470,679.0,Section,Initmates,Intimates,Typographical Error,"Corrected ""Initmates"" to ""Intimates"""
+dataset1,4489,375.0,Section,Initmates,Intimates,Typographical Error,"Corrected ""Initmates"" to ""Intimates"""
+dataset1,4496,682.0,Section,Initmates,Intimates,Typographical Error,"Corrected ""Initmates"" to ""Intimates"""
+dataset1,4497,360.0,Section,Initmates,Intimates,Typographical Error,"Corrected ""Initmates"" to ""Intimates"""
+dataset1,4500,223.0,Section,Initmates,Intimates,Typographical Error,"Corrected ""Initmates"" to ""Intimates"""
+dataset1,4520,440.0,Section,Initmates,Intimates,Typographical Error,"Corrected ""Initmates"" to ""Intimates"""
+dataset1,4534,690.0,Section,Initmates,Intimates,Typographical Error,"Corrected ""Initmates"" to ""Intimates"""
+dataset1,4539,106.0,Section,Initmates,Intimates,Typographical Error,"Corrected ""Initmates"" to ""Intimates"""
+dataset1,4544,287.0,Section,Initmates,Intimates,Typographical Error,"Corrected ""Initmates"" to ""Intimates"""
+dataset1,4545,297.0,Section,Initmates,Intimates,Typographical Error,"Corrected ""Initmates"" to ""Intimates"""
+dataset1,4553,531.0,Section,Initmates,Intimates,Typographical Error,"Corrected ""Initmates"" to ""Intimates"""
+dataset1,4554,644.0,Section,Initmates,Intimates,Typographical Error,"Corrected ""Initmates"" to ""Intimates"""
+dataset1,4564,777.0,Section,Initmates,Intimates,Typographical Error,"Corrected ""Initmates"" to ""Intimates"""
+dataset1,4569,290.0,Section,Initmates,Intimates,Typographical Error,"Corrected ""Initmates"" to ""Intimates"""
+dataset1,4584,278.0,Section,Initmates,Intimates,Typographical Error,"Corrected ""Initmates"" to ""Intimates"""
+dataset1,4591,514.0,Section,Initmates,Intimates,Typographical Error,"Corrected ""Initmates"" to ""Intimates"""
+dataset1,4592,783.0,Section,Initmates,Intimates,Typographical Error,"Corrected ""Initmates"" to ""Intimates"""
+dataset1,4630,393.0,Section,Initmates,Intimates,Typographical Error,"Corrected ""Initmates"" to ""Intimates"""
+dataset1,4631,790.0,Section,Initmates,Intimates,Typographical Error,"Corrected ""Initmates"" to ""Intimates"""
+dataset1,4643,161.0,Section,Initmates,Intimates,Typographical Error,"Corrected ""Initmates"" to ""Intimates"""
+dataset1,4679,623.0,Section,Initmates,Intimates,Typographical Error,"Corrected ""Initmates"" to ""Intimates"""
+dataset1,4688,380.0,Section,Initmates,Intimates,Typographical Error,"Corrected ""Initmates"" to ""Intimates"""
+dataset1,4693,1203.0,Section,Initmates,Intimates,Typographical Error,"Corrected ""Initmates"" to ""Intimates"""
+dataset1,4696,514.0,Section,Initmates,Intimates,Typographical Error,"Corrected ""Initmates"" to ""Intimates"""
+dataset1,4715,508.0,Section,Initmates,Intimates,Typographical Error,"Corrected ""Initmates"" to ""Intimates"""
+dataset1,4748,688.0,Section,Initmates,Intimates,Typographical Error,"Corrected ""Initmates"" to ""Intimates"""
+dataset1,4750,739.0,Section,Initmates,Intimates,Typographical Error,"Corrected ""Initmates"" to ""Intimates"""
+dataset1,4764,117.0,Section,Initmates,Intimates,Typographical Error,"Corrected ""Initmates"" to ""Intimates"""
+dataset1,4797,100.0,Section,Initmates,Intimates,Typographical Error,"Corrected ""Initmates"" to ""Intimates"""
+dataset1,4798,583.0,Section,Initmates,Intimates,Typographical Error,"Corrected ""Initmates"" to ""Intimates"""
+dataset1,4800,90.0,Section,Initmates,Intimates,Typographical Error,"Corrected ""Initmates"" to ""Intimates"""
+dataset1,4826,1167.0,Section,Initmates,Intimates,Typographical Error,"Corrected ""Initmates"" to ""Intimates"""
+dataset1,4853,420.0,Section,Initmates,Intimates,Typographical Error,"Corrected ""Initmates"" to ""Intimates"""
+dataset1,4873,677.0,Section,Initmates,Intimates,Typographical Error,"Corrected ""Initmates"" to ""Intimates"""
+dataset1,4895,781.0,Section,Initmates,Intimates,Typographical Error,"Corrected ""Initmates"" to ""Intimates"""
+dataset1,4921,616.0,Section,Initmates,Intimates,Typographical Error,"Corrected ""Initmates"" to ""Intimates"""
+dataset1,4923,150.0,Section,Initmates,Intimates,Typographical Error,"Corrected ""Initmates"" to ""Intimates"""
+dataset1,4935,361.0,Section,Initmates,Intimates,Typographical Error,"Corrected ""Initmates"" to ""Intimates"""
+dataset1,4937,290.0,Section,Initmates,Intimates,Typographical Error,"Corrected ""Initmates"" to ""Intimates"""
+dataset1,4940,166.0,Section,Initmates,Intimates,Typographical Error,"Corrected ""Initmates"" to ""Intimates"""
+dataset1,4941,418.0,Section,Initmates,Intimates,Typographical Error,"Corrected ""Initmates"" to ""Intimates"""
+dataset1,4954,482.0,Section,Initmates,Intimates,Typographical Error,"Corrected ""Initmates"" to ""Intimates"""
+dataset1,4961,788.0,Section,Initmates,Intimates,Typographical Error,"Corrected ""Initmates"" to ""Intimates"""
+dataset1,4964,407.0,Section,Initmates,Intimates,Typographical Error,"Corrected ""Initmates"" to ""Intimates"""
+dataset1,4968,145.0,Section,Initmates,Intimates,Typographical Error,"Corrected ""Initmates"" to ""Intimates"""
+dataset1,5031,343.0,Section,Initmates,Intimates,Typographical Error,"Corrected ""Initmates"" to ""Intimates"""
+dataset1,5050,211.0,Section,Initmates,Intimates,Typographical Error,"Corrected ""Initmates"" to ""Intimates"""
+dataset1,5063,166.0,Section,Initmates,Intimates,Typographical Error,"Corrected ""Initmates"" to ""Intimates"""
+dataset1,5107,129.0,Section,Initmates,Intimates,Typographical Error,"Corrected ""Initmates"" to ""Intimates"""
+dataset1,5110,394.0,Section,Initmates,Intimates,Typographical Error,"Corrected ""Initmates"" to ""Intimates"""
+dataset1,5138,720.0,Section,Initmates,Intimates,Typographical Error,"Corrected ""Initmates"" to ""Intimates"""
+dataset1,5144,368.0,Section,Initmates,Intimates,Typographical Error,"Corrected ""Initmates"" to ""Intimates"""
+dataset1,5174,121.0,Section,Initmates,Intimates,Typographical Error,"Corrected ""Initmates"" to ""Intimates"""
+dataset1,5190,291.0,Section,Initmates,Intimates,Typographical Error,"Corrected ""Initmates"" to ""Intimates"""
+dataset1,5203,514.0,Section,Initmates,Intimates,Typographical Error,"Corrected ""Initmates"" to ""Intimates"""
+dataset1,5209,491.0,Section,Initmates,Intimates,Typographical Error,"Corrected ""Initmates"" to ""Intimates"""
+dataset1,5214,115.0,Section,Initmates,Intimates,Typographical Error,"Corrected ""Initmates"" to ""Intimates"""
+dataset1,5239,24.0,Section,Initmates,Intimates,Typographical Error,"Corrected ""Initmates"" to ""Intimates"""
+dataset1,5264,622.0,Section,Initmates,Intimates,Typographical Error,"Corrected ""Initmates"" to ""Intimates"""
+dataset1,5271,780.0,Section,Initmates,Intimates,Typographical Error,"Corrected ""Initmates"" to ""Intimates"""
+dataset1,5286,1.0,Section,Initmates,Intimates,Typographical Error,"Corrected ""Initmates"" to ""Intimates"""
+dataset1,5306,598.0,Section,Initmates,Intimates,Typographical Error,"Corrected ""Initmates"" to ""Intimates"""
+dataset1,5314,229.0,Section,Initmates,Intimates,Typographical Error,"Corrected ""Initmates"" to ""Intimates"""
+dataset1,5345,295.0,Section,Initmates,Intimates,Typographical Error,"Corrected ""Initmates"" to ""Intimates"""
+dataset1,5368,1158.0,Section,Initmates,Intimates,Typographical Error,"Corrected ""Initmates"" to ""Intimates"""
+dataset1,5373,658.0,Section,Initmates,Intimates,Typographical Error,"Corrected ""Initmates"" to ""Intimates"""
+dataset1,5420,650.0,Section,Initmates,Intimates,Typographical Error,"Corrected ""Initmates"" to ""Intimates"""
+dataset1,5427,166.0,Section,Initmates,Intimates,Typographical Error,"Corrected ""Initmates"" to ""Intimates"""
+dataset1,5437,78.0,Section,Initmates,Intimates,Typographical Error,"Corrected ""Initmates"" to ""Intimates"""
+dataset1,5443,514.0,Section,Initmates,Intimates,Typographical Error,"Corrected ""Initmates"" to ""Intimates"""
+dataset1,5450,253.0,Section,Initmates,Intimates,Typographical Error,"Corrected ""Initmates"" to ""Intimates"""
+dataset1,5455,260.0,Section,Initmates,Intimates,Typographical Error,"Corrected ""Initmates"" to ""Intimates"""
+dataset1,5466,344.0,Section,Initmates,Intimates,Typographical Error,"Corrected ""Initmates"" to ""Intimates"""
+dataset1,5498,382.0,Section,Initmates,Intimates,Typographical Error,"Corrected ""Initmates"" to ""Intimates"""
+dataset1,5514,289.0,Section,Initmates,Intimates,Typographical Error,"Corrected ""Initmates"" to ""Intimates"""
+dataset1,5529,169.0,Section,Initmates,Intimates,Typographical Error,"Corrected ""Initmates"" to ""Intimates"""
+dataset1,5564,90.0,Section,Initmates,Intimates,Typographical Error,"Corrected ""Initmates"" to ""Intimates"""
+dataset1,5572,215.0,Section,Initmates,Intimates,Typographical Error,"Corrected ""Initmates"" to ""Intimates"""
+dataset1,5574,202.0,Section,Initmates,Intimates,Typographical Error,"Corrected ""Initmates"" to ""Intimates"""
+dataset1,5596,367.0,Section,Initmates,Intimates,Typographical Error,"Corrected ""Initmates"" to ""Intimates"""
+dataset1,5614,169.0,Section,Initmates,Intimates,Typographical Error,"Corrected ""Initmates"" to ""Intimates"""
+dataset1,5645,169.0,Section,Initmates,Intimates,Typographical Error,"Corrected ""Initmates"" to ""Intimates"""
+dataset1,5662,685.0,Section,Initmates,Intimates,Typographical Error,"Corrected ""Initmates"" to ""Intimates"""
+dataset1,5667,90.0,Section,Initmates,Intimates,Typographical Error,"Corrected ""Initmates"" to ""Intimates"""
+dataset1,5668,557.0,Section,Initmates,Intimates,Typographical Error,"Corrected ""Initmates"" to ""Intimates"""
+dataset1,5672,228.0,Section,Initmates,Intimates,Typographical Error,"Corrected ""Initmates"" to ""Intimates"""
+dataset1,5691,375.0,Section,Initmates,Intimates,Typographical Error,"Corrected ""Initmates"" to ""Intimates"""
+dataset1,5694,156.0,Section,Initmates,Intimates,Typographical Error,"Corrected ""Initmates"" to ""Intimates"""
+dataset1,5715,704.0,Section,Initmates,Intimates,Typographical Error,"Corrected ""Initmates"" to ""Intimates"""
+dataset1,5750,260.0,Section,Initmates,Intimates,Typographical Error,"Corrected ""Initmates"" to ""Intimates"""
+dataset1,5779,466.0,Section,Initmates,Intimates,Typographical Error,"Corrected ""Initmates"" to ""Intimates"""
+dataset1,5789,90.0,Section,Initmates,Intimates,Typographical Error,"Corrected ""Initmates"" to ""Intimates"""
+dataset1,5793,558.0,Section,Initmates,Intimates,Typographical Error,"Corrected ""Initmates"" to ""Intimates"""
+dataset1,5801,719.0,Section,Initmates,Intimates,Typographical Error,"Corrected ""Initmates"" to ""Intimates"""
+dataset1,5809,774.0,Section,Initmates,Intimates,Typographical Error,"Corrected ""Initmates"" to ""Intimates"""
+dataset1,5827,251.0,Section,Initmates,Intimates,Typographical Error,"Corrected ""Initmates"" to ""Intimates"""
+dataset1,5858,655.0,Section,Initmates,Intimates,Typographical Error,"Corrected ""Initmates"" to ""Intimates"""
+dataset1,5859,193.0,Section,Initmates,Intimates,Typographical Error,"Corrected ""Initmates"" to ""Intimates"""
+dataset1,5860,38.0,Section,Initmates,Intimates,Typographical Error,"Corrected ""Initmates"" to ""Intimates"""
+dataset1,5866,120.0,Section,Initmates,Intimates,Typographical Error,"Corrected ""Initmates"" to ""Intimates"""
+dataset1,5885,382.0,Section,Initmates,Intimates,Typographical Error,"Corrected ""Initmates"" to ""Intimates"""
+dataset1,5897,411.0,Section,Initmates,Intimates,Typographical Error,"Corrected ""Initmates"" to ""Intimates"""
+dataset1,5904,59.0,Section,Initmates,Intimates,Typographical Error,"Corrected ""Initmates"" to ""Intimates"""
+dataset1,5907,683.0,Section,Initmates,Intimates,Typographical Error,"Corrected ""Initmates"" to ""Intimates"""
+dataset1,5916,278.0,Section,Initmates,Intimates,Typographical Error,"Corrected ""Initmates"" to ""Intimates"""
+dataset1,5926,595.0,Section,Initmates,Intimates,Typographical Error,"Corrected ""Initmates"" to ""Intimates"""
+dataset1,5927,210.0,Section,Initmates,Intimates,Typographical Error,"Corrected ""Initmates"" to ""Intimates"""
+dataset1,5928,547.0,Section,Initmates,Intimates,Typographical Error,"Corrected ""Initmates"" to ""Intimates"""
+dataset1,5937,169.0,Section,Initmates,Intimates,Typographical Error,"Corrected ""Initmates"" to ""Intimates"""
+dataset1,5938,93.0,Section,Initmates,Intimates,Typographical Error,"Corrected ""Initmates"" to ""Intimates"""
+dataset1,5940,452.0,Section,Initmates,Intimates,Typographical Error,"Corrected ""Initmates"" to ""Intimates"""
+dataset1,5943,440.0,Section,Initmates,Intimates,Typographical Error,"Corrected ""Initmates"" to ""Intimates"""
+dataset1,5966,237.0,Section,Initmates,Intimates,Typographical Error,"Corrected ""Initmates"" to ""Intimates"""
+dataset1,5974,243.0,Section,Initmates,Intimates,Typographical Error,"Corrected ""Initmates"" to ""Intimates"""
+dataset1,5981,307.0,Section,Initmates,Intimates,Typographical Error,"Corrected ""Initmates"" to ""Intimates"""
+dataset1,6007,301.0,Section,Initmates,Intimates,Typographical Error,"Corrected ""Initmates"" to ""Intimates"""
+dataset1,6044,1174.0,Section,Initmates,Intimates,Typographical Error,"Corrected ""Initmates"" to ""Intimates"""
+dataset1,6096,609.0,Section,Initmates,Intimates,Typographical Error,"Corrected ""Initmates"" to ""Intimates"""
+dataset1,6139,441.0,Section,Initmates,Intimates,Typographical Error,"Corrected ""Initmates"" to ""Intimates"""
+dataset1,6169,738.0,Section,Initmates,Intimates,Typographical Error,"Corrected ""Initmates"" to ""Intimates"""
+dataset1,6178,413.0,Section,Initmates,Intimates,Typographical Error,"Corrected ""Initmates"" to ""Intimates"""
+dataset1,6184,1176.0,Section,Initmates,Intimates,Typographical Error,"Corrected ""Initmates"" to ""Intimates"""
+dataset1,6207,515.0,Section,Initmates,Intimates,Typographical Error,"Corrected ""Initmates"" to ""Intimates"""
+dataset1,6278,268.0,Section,Initmates,Intimates,Typographical Error,"Corrected ""Initmates"" to ""Intimates"""
+dataset1,6338,176.0,Section,Initmates,Intimates,Typographical Error,"Corrected ""Initmates"" to ""Intimates"""
+dataset1,6340,810.0,Section,Initmates,Intimates,Typographical Error,"Corrected ""Initmates"" to ""Intimates"""
+dataset1,6346,375.0,Section,Initmates,Intimates,Typographical Error,"Corrected ""Initmates"" to ""Intimates"""
+dataset1,6374,382.0,Section,Initmates,Intimates,Typographical Error,"Corrected ""Initmates"" to ""Intimates"""
+dataset1,6421,439.0,Section,Initmates,Intimates,Typographical Error,"Corrected ""Initmates"" to ""Intimates"""
+dataset1,6431,338.0,Section,Initmates,Intimates,Typographical Error,"Corrected ""Initmates"" to ""Intimates"""
+dataset1,77,936.0,Age,89,Deleted,Suspicious Age,Deleted record with unrealistic Age (<13 or >80)
+dataset1,137,1078.0,Age,4,Deleted,Suspicious Age,Deleted record with unrealistic Age (<13 or >80)
+dataset1,189,872.0,Age,6,Deleted,Suspicious Age,Deleted record with unrealistic Age (<13 or >80)
+dataset1,303,1065.0,Age,6,Deleted,Suspicious Age,Deleted record with unrealistic Age (<13 or >80)
+dataset1,959,1094.0,Age,90,Deleted,Suspicious Age,Deleted record with unrealistic Age (<13 or >80)
+dataset1,1228,824.0,Age,83,Deleted,Suspicious Age,Deleted record with unrealistic Age (<13 or >80)
+dataset1,1573,862.0,Age,84,Deleted,Suspicious Age,Deleted record with unrealistic Age (<13 or >80)
+dataset1,1589,1078.0,Age,82,Deleted,Suspicious Age,Deleted record with unrealistic Age (<13 or >80)
+dataset1,1926,936.0,Age,83,Deleted,Suspicious Age,Deleted record with unrealistic Age (<13 or >80)
+dataset1,2201,1121.0,Age,82,Deleted,Suspicious Age,Deleted record with unrealistic Age (<13 or >80)
+dataset1,2814,833.0,Age,81,Deleted,Suspicious Age,Deleted record with unrealistic Age (<13 or >80)
+dataset1,3149,872.0,Age,83,Deleted,Suspicious Age,Deleted record with unrealistic Age (<13 or >80)
+dataset1,3279,1142.0,Age,83,Deleted,Suspicious Age,Deleted record with unrealistic Age (<13 or >80)
+dataset1,3328,886.0,Age,5,Deleted,Suspicious Age,Deleted record with unrealistic Age (<13 or >80)
+dataset1,3462,927.0,Age,82,Deleted,Suspicious Age,Deleted record with unrealistic Age (<13 or >80)
+dataset1,3506,1126.0,Age,82,Deleted,Suspicious Age,Deleted record with unrealistic Age (<13 or >80)
+dataset1,3778,941.0,Age,82,Deleted,Suspicious Age,Deleted record with unrealistic Age (<13 or >80)
+dataset1,3799,910.0,Age,83,Deleted,Suspicious Age,Deleted record with unrealistic Age (<13 or >80)
+dataset1,3829,863.0,Age,89,Deleted,Suspicious Age,Deleted record with unrealistic Age (<13 or >80)
+dataset1,4312,862.0,Age,82,Deleted,Suspicious Age,Deleted record with unrealistic Age (<13 or >80)
+dataset1,4394,921.0,Age,83,Deleted,Suspicious Age,Deleted record with unrealistic Age (<13 or >80)
+dataset1,4678,1078.0,Age,82,Deleted,Suspicious Age,Deleted record with unrealistic Age (<13 or >80)
+dataset1,5335,831.0,Age,83,Deleted,Suspicious Age,Deleted record with unrealistic Age (<13 or >80)
+dataset1,5451,825.0,Age,5,Deleted,Suspicious Age,Deleted record with unrealistic Age (<13 or >80)
+dataset1,5487,1078.0,Age,99,Deleted,Suspicious Age,Deleted record with unrealistic Age (<13 or >80)
+dataset1,5664,909.0,Age,82,Deleted,Suspicious Age,Deleted record with unrealistic Age (<13 or >80)
+dataset1,6145,872.0,Age,83,Deleted,Suspicious Age,Deleted record with unrealistic Age (<13 or >80)
+dataset1,1212,1041.0,Cost,-1.0,1.0,Negative Cost Fix,Converted negative Cost to positive using absolute value
+dataset1,1585,895.0,Cost,-1.0,1.0,Negative Cost Fix,Converted negative Cost to positive using absolute value
+dataset1,2914,1095.0,Cost,-1.0,1.0,Negative Cost Fix,Converted negative Cost to positive using absolute value
+dataset1,3242,1079.0,Cost,-1.0,1.0,Negative Cost Fix,Converted negative Cost to positive using absolute value
+dataset1,3468,933.0,Cost,-1.0,1.0,Negative Cost Fix,Converted negative Cost to positive using absolute value
+dataset1,3548,905.0,Cost,-1.0,1.0,Negative Cost Fix,Converted negative Cost to positive using absolute value
+dataset1,4020,868.0,Cost,-1.0,1.0,Negative Cost Fix,Converted negative Cost to positive using absolute value
+dataset1,4697,828.0,Cost,-1.0,1.0,Negative Cost Fix,Converted negative Cost to positive using absolute value
+dataset1,12,861.0,Customer Rating,1.25,1,Rating Correction,Rounded Customer Rating from 1.25 to 1
+dataset1,652,1097.0,Customer Rating,5.25,5,Rating Correction,Rounded Customer Rating from 5.25 to 5
+dataset1,4431,1035.0,Customer Rating,3.25,3,Rating Correction,Rounded Customer Rating from 3.25 to 3
+dataset1,404,824.0,Online Time,711.8733677953907,711.8733677953907,Anomaly flagged,Value flagged as extreme Online Time; no correction applied
+dataset1,761,1086.0,Online Time,706.4095525283649,706.4095525283649,Anomaly flagged,Value flagged as extreme Online Time; no correction applied
+dataset1,1537,835.0,Online Time,705.8425009988814,705.8425009988814,Anomaly flagged,Value flagged as extreme Online Time; no correction applied
+dataset1,2407,1094.0,Online Time,711.8100297641349,711.8100297641349,Anomaly flagged,Value flagged as extreme Online Time; no correction applied
+dataset1,5750,260.0,Online Time,705.0586350318815,705.0586350318815,Anomaly flagged,Value flagged as extreme Online Time; no correction applied
+dataset1,6185,873.0,Online Time,703.9115005458261,703.9115005458261,Anomaly flagged,Value flagged as extreme Online Time; no correction applied
+dataset1,6254,1059.0,Online Time,703.7092033662498,703.7092033662498,Anomaly flagged,Value flagged as extreme Online Time; no correction applied
+dataset1,112,895.0,Positive Review Count,20.0,20.0,Anomaly flagged,Value flagged as extreme Positive Review Count; no correction applied
+dataset1,193,881.0,Positive Review Count,25.0,25.0,Anomaly flagged,Value flagged as extreme Positive Review Count; no correction applied
+dataset1,275,1077.0,Positive Review Count,20.0,20.0,Anomaly flagged,Value flagged as extreme Positive Review Count; no correction applied
+dataset1,319,1092.0,Positive Review Count,40.0,40.0,Anomaly flagged,Value flagged as extreme Positive Review Count; no correction applied
+dataset1,399,1104.0,Positive Review Count,20.0,20.0,Anomaly flagged,Value flagged as extreme Positive Review Count; no correction applied
+dataset1,446,850.0,Positive Review Count,25.0,25.0,Anomaly flagged,Value flagged as extreme Positive Review Count; no correction applied
+dataset1,491,836.0,Positive Review Count,27.0,27.0,Anomaly flagged,Value flagged as extreme Positive Review Count; no correction applied
+dataset1,513,1051.0,Positive Review Count,20.0,20.0,Anomaly flagged,Value flagged as extreme Positive Review Count; no correction applied
+dataset1,555,1110.0,Positive Review Count,25.0,25.0,Anomaly flagged,Value flagged as extreme Positive Review Count; no correction applied
+dataset1,587,1092.0,Positive Review Count,33.0,33.0,Anomaly flagged,Value flagged as extreme Positive Review Count; no correction applied
+dataset1,589,1110.0,Positive Review Count,25.0,25.0,Anomaly flagged,Value flagged as extreme Positive Review Count; no correction applied
+dataset1,601,936.0,Positive Review Count,27.0,27.0,Anomaly flagged,Value flagged as extreme Positive Review Count; no correction applied
+dataset1,645,1094.0,Positive Review Count,40.0,40.0,Anomaly flagged,Value flagged as extreme Positive Review Count; no correction applied
+dataset1,827,1081.0,Positive Review Count,25.0,25.0,Anomaly flagged,Value flagged as extreme Positive Review Count; no correction applied
+dataset1,838,866.0,Positive Review Count,38.0,38.0,Anomaly flagged,Value flagged as extreme Positive Review Count; no correction applied
+dataset1,854,1094.0,Positive Review Count,25.0,25.0,Anomaly flagged,Value flagged as extreme Positive Review Count; no correction applied
+dataset1,951,876.0,Positive Review Count,23.0,23.0,Anomaly flagged,Value flagged as extreme Positive Review Count; no correction applied
+dataset1,998,850.0,Positive Review Count,22.0,22.0,Anomaly flagged,Value flagged as extreme Positive Review Count; no correction applied
+dataset1,1116,1070.0,Positive Review Count,22.0,22.0,Anomaly flagged,Value flagged as extreme Positive Review Count; no correction applied
+dataset1,1154,850.0,Positive Review Count,22.0,22.0,Anomaly flagged,Value flagged as extreme Positive Review Count; no correction applied
+dataset1,1380,1107.0,Positive Review Count,27.0,27.0,Anomaly flagged,Value flagged as extreme Positive Review Count; no correction applied
+dataset1,1414,867.0,Positive Review Count,23.0,23.0,Anomaly flagged,Value flagged as extreme Positive Review Count; no correction applied
+dataset1,1447,862.0,Positive Review Count,23.0,23.0,Anomaly flagged,Value flagged as extreme Positive Review Count; no correction applied
+dataset1,1496,912.0,Positive Review Count,26.0,26.0,Anomaly flagged,Value flagged as extreme Positive Review Count; no correction applied
+dataset1,1497,875.0,Positive Review Count,27.0,27.0,Anomaly flagged,Value flagged as extreme Positive Review Count; no correction applied
+dataset1,1514,886.0,Positive Review Count,43.0,43.0,Anomaly flagged,Value flagged as extreme Positive Review Count; no correction applied
+dataset1,1559,872.0,Positive Review Count,25.0,25.0,Anomaly flagged,Value flagged as extreme Positive Review Count; no correction applied
+dataset1,1568,1081.0,Positive Review Count,28.0,28.0,Anomaly flagged,Value flagged as extreme Positive Review Count; no correction applied
+dataset1,1676,862.0,Positive Review Count,28.0,28.0,Anomaly flagged,Value flagged as extreme Positive Review Count; no correction applied
+dataset1,1763,864.0,Positive Review Count,93.0,93.0,Anomaly flagged,Value flagged as extreme Positive Review Count; no correction applied
+dataset1,1794,984.0,Positive Review Count,26.0,26.0,Anomaly flagged,Value flagged as extreme Positive Review Count; no correction applied
+dataset1,1914,1110.0,Positive Review Count,23.0,23.0,Anomaly flagged,Value flagged as extreme Positive Review Count; no correction applied
+dataset1,1920,1095.0,Positive Review Count,38.0,38.0,Anomaly flagged,Value flagged as extreme Positive Review Count; no correction applied
+dataset1,2009,1068.0,Positive Review Count,30.0,30.0,Anomaly flagged,Value flagged as extreme Positive Review Count; no correction applied
+dataset1,2043,1110.0,Positive Review Count,46.0,46.0,Anomaly flagged,Value flagged as extreme Positive Review Count; no correction applied
+dataset1,2130,873.0,Positive Review Count,24.0,24.0,Anomaly flagged,Value flagged as extreme Positive Review Count; no correction applied
+dataset1,2199,1038.0,Positive Review Count,42.0,42.0,Anomaly flagged,Value flagged as extreme Positive Review Count; no correction applied
+dataset1,2200,863.0,Positive Review Count,52.0,52.0,Anomaly flagged,Value flagged as extreme Positive Review Count; no correction applied
+dataset1,2279,1080.0,Positive Review Count,47.0,47.0,Anomaly flagged,Value flagged as extreme Positive Review Count; no correction applied
+dataset1,2480,881.0,Positive Review Count,22.0,22.0,Anomaly flagged,Value flagged as extreme Positive Review Count; no correction applied
+dataset1,2541,984.0,Positive Review Count,21.0,21.0,Anomaly flagged,Value flagged as extreme Positive Review Count; no correction applied
+dataset1,2553,1100.0,Positive Review Count,25.0,25.0,Anomaly flagged,Value flagged as extreme Positive Review Count; no correction applied
+dataset1,2637,1009.0,Positive Review Count,21.0,21.0,Anomaly flagged,Value flagged as extreme Positive Review Count; no correction applied
+dataset1,2649,1078.0,Positive Review Count,87.0,87.0,Anomaly flagged,Value flagged as extreme Positive Review Count; no correction applied
+dataset1,2701,1078.0,Positive Review Count,31.0,31.0,Anomaly flagged,Value flagged as extreme Positive Review Count; no correction applied
+dataset1,2766,1110.0,Positive Review Count,28.0,28.0,Anomaly flagged,Value flagged as extreme Positive Review Count; no correction applied
+dataset1,2800,850.0,Positive Review Count,21.0,21.0,Anomaly flagged,Value flagged as extreme Positive Review Count; no correction applied
+dataset1,2833,774.0,Positive Review Count,20.0,20.0,Anomaly flagged,Value flagged as extreme Positive Review Count; no correction applied
+dataset1,2858,909.0,Positive Review Count,32.0,32.0,Anomaly flagged,Value flagged as extreme Positive Review Count; no correction applied
+dataset1,2909,829.0,Positive Review Count,29.0,29.0,Anomaly flagged,Value flagged as extreme Positive Review Count; no correction applied
+dataset1,2931,1033.0,Positive Review Count,28.0,28.0,Anomaly flagged,Value flagged as extreme Positive Review Count; no correction applied
+dataset1,3009,867.0,Positive Review Count,47.0,47.0,Anomaly flagged,Value flagged as extreme Positive Review Count; no correction applied
+dataset1,3100,1081.0,Positive Review Count,42.0,42.0,Anomaly flagged,Value flagged as extreme Positive Review Count; no correction applied
+dataset1,3173,886.0,Positive Review Count,24.0,24.0,Anomaly flagged,Value flagged as extreme Positive Review Count; no correction applied
+dataset1,3292,1078.0,Positive Review Count,21.0,21.0,Anomaly flagged,Value flagged as extreme Positive Review Count; no correction applied
+dataset1,3294,1094.0,Positive Review Count,89.0,89.0,Anomaly flagged,Value flagged as extreme Positive Review Count; no correction applied
+dataset1,3300,1078.0,Positive Review Count,98.0,98.0,Anomaly flagged,Value flagged as extreme Positive Review Count; no correction applied
+dataset1,3306,1078.0,Positive Review Count,28.0,28.0,Anomaly flagged,Value flagged as extreme Positive Review Count; no correction applied
+dataset1,3325,1110.0,Positive Review Count,28.0,28.0,Anomaly flagged,Value flagged as extreme Positive Review Count; no correction applied
+dataset1,3344,1103.0,Positive Review Count,21.0,21.0,Anomaly flagged,Value flagged as extreme Positive Review Count; no correction applied
+dataset1,3346,866.0,Positive Review Count,26.0,26.0,Anomaly flagged,Value flagged as extreme Positive Review Count; no correction applied
+dataset1,3351,823.0,Positive Review Count,58.0,58.0,Anomaly flagged,Value flagged as extreme Positive Review Count; no correction applied
+dataset1,3553,1094.0,Positive Review Count,30.0,30.0,Anomaly flagged,Value flagged as extreme Positive Review Count; no correction applied
+dataset1,3659,1110.0,Positive Review Count,31.0,31.0,Anomaly flagged,Value flagged as extreme Positive Review Count; no correction applied
+dataset1,3793,1094.0,Positive Review Count,20.0,20.0,Anomaly flagged,Value flagged as extreme Positive Review Count; no correction applied
+dataset1,3809,1044.0,Positive Review Count,21.0,21.0,Anomaly flagged,Value flagged as extreme Positive Review Count; no correction applied
+dataset1,3982,860.0,Positive Review Count,21.0,21.0,Anomaly flagged,Value flagged as extreme Positive Review Count; no correction applied
+dataset1,4001,1094.0,Positive Review Count,23.0,23.0,Anomaly flagged,Value flagged as extreme Positive Review Count; no correction applied
+dataset1,4037,1092.0,Positive Review Count,122.0,122.0,Anomaly flagged,Value flagged as extreme Positive Review Count; no correction applied
+dataset1,4065,1110.0,Positive Review Count,24.0,24.0,Anomaly flagged,Value flagged as extreme Positive Review Count; no correction applied
+dataset1,4225,977.0,Positive Review Count,21.0,21.0,Anomaly flagged,Value flagged as extreme Positive Review Count; no correction applied
+dataset1,4271,912.0,Positive Review Count,23.0,23.0,Anomaly flagged,Value flagged as extreme Positive Review Count; no correction applied
+dataset1,4303,1092.0,Positive Review Count,45.0,45.0,Anomaly flagged,Value flagged as extreme Positive Review Count; no correction applied
+dataset1,4338,862.0,Positive Review Count,41.0,41.0,Anomaly flagged,Value flagged as extreme Positive Review Count; no correction applied
+dataset1,4348,903.0,Positive Review Count,30.0,30.0,Anomaly flagged,Value flagged as extreme Positive Review Count; no correction applied
+dataset1,4389,1110.0,Positive Review Count,61.0,61.0,Anomaly flagged,Value flagged as extreme Positive Review Count; no correction applied
+dataset1,4397,1086.0,Positive Review Count,20.0,20.0,Anomaly flagged,Value flagged as extreme Positive Review Count; no correction applied
+dataset1,4447,1094.0,Positive Review Count,31.0,31.0,Anomaly flagged,Value flagged as extreme Positive Review Count; no correction applied
+dataset1,4515,1095.0,Positive Review Count,23.0,23.0,Anomaly flagged,Value flagged as extreme Positive Review Count; no correction applied
+dataset1,4569,290.0,Positive Review Count,27.0,27.0,Anomaly flagged,Value flagged as extreme Positive Review Count; no correction applied
+dataset1,4735,1078.0,Positive Review Count,29.0,29.0,Anomaly flagged,Value flagged as extreme Positive Review Count; no correction applied
+dataset1,4738,1081.0,Positive Review Count,25.0,25.0,Anomaly flagged,Value flagged as extreme Positive Review Count; no correction applied
+dataset1,4763,1047.0,Positive Review Count,30.0,30.0,Anomaly flagged,Value flagged as extreme Positive Review Count; no correction applied
+dataset1,4795,1096.0,Positive Review Count,31.0,31.0,Anomaly flagged,Value flagged as extreme Positive Review Count; no correction applied
+dataset1,4822,940.0,Positive Review Count,30.0,30.0,Anomaly flagged,Value flagged as extreme Positive Review Count; no correction applied
+dataset1,4869,986.0,Positive Review Count,49.0,49.0,Anomaly flagged,Value flagged as extreme Positive Review Count; no correction applied
+dataset1,4918,862.0,Positive Review Count,43.0,43.0,Anomaly flagged,Value flagged as extreme Positive Review Count; no correction applied
+dataset1,4943,1080.0,Positive Review Count,26.0,26.0,Anomaly flagged,Value flagged as extreme Positive Review Count; no correction applied
+dataset1,4958,1078.0,Positive Review Count,23.0,23.0,Anomaly flagged,Value flagged as extreme Positive Review Count; no correction applied
+dataset1,4969,834.0,Positive Review Count,28.0,28.0,Anomaly flagged,Value flagged as extreme Positive Review Count; no correction applied
+dataset1,5067,1110.0,Positive Review Count,25.0,25.0,Anomaly flagged,Value flagged as extreme Positive Review Count; no correction applied
+dataset1,5091,820.0,Positive Review Count,20.0,20.0,Anomaly flagged,Value flagged as extreme Positive Review Count; no correction applied
+dataset1,5105,850.0,Positive Review Count,35.0,35.0,Anomaly flagged,Value flagged as extreme Positive Review Count; no correction applied
+dataset1,5139,1080.0,Positive Review Count,20.0,20.0,Anomaly flagged,Value flagged as extreme Positive Review Count; no correction applied
+dataset1,5157,1110.0,Positive Review Count,51.0,51.0,Anomaly flagged,Value flagged as extreme Positive Review Count; no correction applied
+dataset1,5279,1078.0,Positive Review Count,21.0,21.0,Anomaly flagged,Value flagged as extreme Positive Review Count; no correction applied
+dataset1,5288,863.0,Positive Review Count,36.0,36.0,Anomaly flagged,Value flagged as extreme Positive Review Count; no correction applied
+dataset1,5323,862.0,Positive Review Count,23.0,23.0,Anomaly flagged,Value flagged as extreme Positive Review Count; no correction applied
+dataset1,5331,1104.0,Positive Review Count,23.0,23.0,Anomaly flagged,Value flagged as extreme Positive Review Count; no correction applied
+dataset1,5395,872.0,Positive Review Count,26.0,26.0,Anomaly flagged,Value flagged as extreme Positive Review Count; no correction applied
+dataset1,5452,839.0,Positive Review Count,21.0,21.0,Anomaly flagged,Value flagged as extreme Positive Review Count; no correction applied
+dataset1,5523,903.0,Positive Review Count,21.0,21.0,Anomaly flagged,Value flagged as extreme Positive Review Count; no correction applied
+dataset1,5524,1077.0,Positive Review Count,41.0,41.0,Anomaly flagged,Value flagged as extreme Positive Review Count; no correction applied
+dataset1,5595,1082.0,Positive Review Count,25.0,25.0,Anomaly flagged,Value flagged as extreme Positive Review Count; no correction applied
+dataset1,5597,1110.0,Positive Review Count,26.0,26.0,Anomaly flagged,Value flagged as extreme Positive Review Count; no correction applied
+dataset1,5603,871.0,Positive Review Count,30.0,30.0,Anomaly flagged,Value flagged as extreme Positive Review Count; no correction applied
+dataset1,5626,828.0,Positive Review Count,20.0,20.0,Anomaly flagged,Value flagged as extreme Positive Review Count; no correction applied
+dataset1,5637,1078.0,Positive Review Count,26.0,26.0,Anomaly flagged,Value flagged as extreme Positive Review Count; no correction applied
+dataset1,5882,1123.0,Positive Review Count,20.0,20.0,Anomaly flagged,Value flagged as extreme Positive Review Count; no correction applied
+dataset1,5951,1101.0,Positive Review Count,23.0,23.0,Anomaly flagged,Value flagged as extreme Positive Review Count; no correction applied
+dataset1,5960,863.0,Positive Review Count,68.0,68.0,Anomaly flagged,Value flagged as extreme Positive Review Count; no correction applied
+dataset1,6063,864.0,Positive Review Count,41.0,41.0,Anomaly flagged,Value flagged as extreme Positive Review Count; no correction applied
+dataset1,6164,909.0,Positive Review Count,37.0,37.0,Anomaly flagged,Value flagged as extreme Positive Review Count; no correction applied
+dataset1,6218,552.0,Positive Review Count,21.0,21.0,Anomaly flagged,Value flagged as extreme Positive Review Count; no correction applied
+dataset1,6232,936.0,Positive Review Count,21.0,21.0,Anomaly flagged,Value flagged as extreme Positive Review Count; no correction applied
+dataset1,6235,880.0,Positive Review Count,28.0,28.0,Anomaly flagged,Value flagged as extreme Positive Review Count; no correction applied
+dataset1,6347,828.0,Positive Review Count,20.0,20.0,Anomaly flagged,Value flagged as extreme Positive Review Count; no correction applied
+dataset1,6401,1092.0,Positive Review Count,29.0,29.0,Anomaly flagged,Value flagged as extreme Positive Review Count; no correction applied
+dataset1,6421,439.0,Positive Review Count,21.0,21.0,Anomaly flagged,Value flagged as extreme Positive Review Count; no correction applied
+dataset1,6437,864.0,Positive Review Count,59.0,59.0,Anomaly flagged,Value flagged as extreme Positive Review Count; no correction applied
